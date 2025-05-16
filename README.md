@@ -45,3 +45,7 @@ Toutefois, je ne garantis aucune réponse.
 ## Crédit & Dédicace
 
 RavenBot est basé sur le code open-source de GoatBot, créé par NTKhang. Merci à lui pour ce projet exceptionnel qui a permis le développement de cette version améliorée et francisée.
+
+Contributeur :
+Amado Shirogane
+[https://m.me/61573686827313](https://m.me/61573686827313).
