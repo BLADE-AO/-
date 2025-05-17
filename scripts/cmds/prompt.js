@@ -6,7 +6,7 @@ module.exports = {
     name: "prompt",
     aliases: ["p"],
     version: "1.2",
-    author: "Team Calyx",
+    author: "MarianCross",
     countDown: 5,
     role: 0,
     longDescription: {

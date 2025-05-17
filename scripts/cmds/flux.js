@@ -8,7 +8,7 @@ module.exports = {
     version: "1.5",
     author: "Samir Œ || Modified By Mariancross",
     countDown: 5,
-    role: 2,
+    role: 0,
     shortDescription: "Générateur d'images via l'API Fluxpro",
     longDescription: "",
     category: "ai",

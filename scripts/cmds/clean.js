@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "clean",
     aliases: [],//["c"] add aliases like that 
-    author: "kshitiz",  
+    author: "MarianCross",  
     version: "2.0",
     cooldowns: 5,
     role: 2,

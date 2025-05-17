@@ -22,7 +22,7 @@ module.exports = {
   config: {
     name: "twixtor",
     aliases: [],
-    author: "Vex_kshitiz",
+    author: "MarianCross",
     version: "1.0",
     shortDescription: {
       en: "",
